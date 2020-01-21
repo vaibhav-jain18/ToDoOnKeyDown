@@ -1,0 +1,132 @@
+C:\Users\vikas\source\repos\ToDo\ToDo\bin\x86\Debug\App.xbf
+C:\Users\vikas\source\repos\ToDo\ToDo\bin\x86\Debug\MainPage.xbf
+C:\Users\vikas\source\repos\ToDo\ToDo\bin\x86\Debug\ToDo.xr.xml
+C:\Users\vikas\source\repos\ToDo\ToDo\bin\x86\Debug\ToDo.exe
+C:\Users\vikas\source\repos\ToDo\ToDo\bin\x86\Debug\ToDo.pdb
+C:\Users\vikas\source\repos\ToDo\ToDo\bin\x86\Debug\resources.pri
+C:\Users\vikas\source\repos\ToDo\ToDo\bin\x86\Debug\AppxManifest.xml
+C:\Users\vikas\source\repos\ToDo\ToDo\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\vikas\source\repos\ToDo\ToDo\bin\x86\Debug\Core\ToDo.exe
+C:\Users\vikas\source\repos\ToDo\ToDo\bin\x86\Debug\ToDo.build.appxrecipe
+C:\Users\vikas\source\repos\ToDo\ToDo\bin\x86\Debug\System.Runtime.dll
+C:\Users\vikas\source\repos\ToDo\ToDo\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\ToDo.csprojAssemblyReference.cache
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\App.g.i.cs
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\App.g.cs
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\MainPage.g.cs
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\App.xaml
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\MainPage.xaml
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\App.xbf
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\MainPage.xbf
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\ToDo.csproj.CopyComplete
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\ToDo.exe
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\ToDo.pdb
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\priconfig.xml
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\resources.resfiles
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\pri.resfiles
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\qualifiers.txt
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\vikas\source\repos\ToDo\ToDo\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885112160000000.json
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\bin\x86\Debug\App.xbf
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\bin\x86\Debug\MainPage.xbf
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\bin\x86\Debug\ToDo.xr.xml
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\bin\x86\Debug\ToDo.exe
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\bin\x86\Debug\ToDo.pdb
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\bin\x86\Debug\resources.pri
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\bin\x86\Debug\AppxManifest.xml
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\bin\x86\Debug\Core\ToDo.exe
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\bin\x86\Debug\ToDo.build.appxrecipe
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\bin\x86\Debug\System.Runtime.dll
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\ToDo.csprojAssemblyReference.cache
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\App.g.i.cs
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\App.g.cs
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\MainPage.g.cs
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\App.xaml
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\MainPage.xaml
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\App.xbf
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\MainPage.xbf
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\ToDo.csproj.CopyComplete
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\ToDo.exe
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\ToDo.pdb
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\priconfig.xml
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\resources.resfiles
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\pri.resfiles
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\qualifiers.txt
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\vikas\Downloads\ToDo-master (1)\ToDo-master\ToDo\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885112160000000.json
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\bin\x86\Debug\App.xbf
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\bin\x86\Debug\MainPage.xbf
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\bin\x86\Debug\ToDo.xr.xml
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\bin\x86\Debug\ToDo.exe
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\bin\x86\Debug\ToDo.pdb
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\bin\x86\Debug\resources.pri
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\bin\x86\Debug\AppxManifest.xml
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\bin\x86\Debug\Core\ToDo.exe
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\bin\x86\Debug\ToDo.build.appxrecipe
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\bin\x86\Debug\System.Runtime.dll
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\ToDo.csprojAssemblyReference.cache
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\App.g.i.cs
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\App.g.cs
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\MainPage.g.cs
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\App.xaml
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\MainPage.xaml
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\App.xbf
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\MainPage.xbf
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\ToDo.csproj.CopyComplete
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\ToDo.exe
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\ToDo.pdb
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\priconfig.xml
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\resources.resfiles
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\pri.resfiles
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\qualifiers.txt
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\vikas\Downloads\ToDoOnKeyDown-master\ToDoOnKeyDown-master\ToDo\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885112160000000.json
